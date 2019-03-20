@@ -5,7 +5,7 @@
 
 Just a quick redirection to **[WeAreOpenSource official blog and introduction](https://weareopensource.me/introduction/)** . 
 
-For information we manages our organization by:
+For information this reposiroty help us to manage our organization by:
 
 - hosting a **[board](https://github.com/weareopensource/weareopensource.github.io/projects/1)** and **[issues](https://github.com/weareopensource/weareopensource.github.io/issues)** to define our **gloabl roadmap**
 
