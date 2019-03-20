@@ -15,7 +15,7 @@ For information we manages our organization by:
 
 *Sharing of knowledge - #LetsGetTogether*
 
-## [Contribute](https://github.com/weareopensource/weareopensource.github.io/wiki/Contribute)
+## [Contribute](https://github.com/weareopensource/weareopensource.github.io/blob/master/CONTRIBUTE.md)
 
 ## History
 
