@@ -5,7 +5,7 @@ this projects up to date and always improving! There are a few guidelines that w
 contributors to follow to keep the project consistent, as well as allow us to keep
 maintaining this project in a reasonable amount of time.
 
-## Creating an Issue
+## Creating an Issue :bookmark:
 
 Before you create a new Issue:
 
@@ -15,7 +15,7 @@ Before you create a new Issue:
 
 And whatever your participation, we thank you :) !
 
-## Making Changes
+## Making Changes :pencil:
 
 * Fork the repository and create a topic branch from the master branch
 * Check for unnecessary whitespace / changes with `git diff --check` before committing.
@@ -43,7 +43,7 @@ if you want to add some fun, [emoji](https://gist.github.com/parmentf/035de27d6e
 And whatever your participation, we thank you a lot for participation :) !
 
 
-## Submitting the Pull Request
+## Submitting the Pull Request :racehorse:
 
 * Push your changes to your topic branch on your fork of the repo.
 * Submit a pull request from your topic branch to the master branch on the repository.
@@ -52,7 +52,7 @@ And whatever your participation, we thank you a lot for participation :) !
 * Small changes are usually accepted and merged in within a week 
 * Larger changes usually spark further discussion and possible changes prior to being merged in.
 
-## Generating a new Release
+## Generating a new Release :rocket:
 
 * Don't forget to update the changelog! with standard-version
 * Review, and commit changes
