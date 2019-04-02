@@ -34,7 +34,7 @@ And whatever your participation, we thank you :) !
 	- ci(travis): subject :construction_worker:
 
 
-if you want to add some fun, [emoji](https://gist.github.com/parmentf/035de27d6ed1dce0b36a) :) 
+if you want to add some fun, [emoji](https://gitmoji.carloscuesta.me) :) 
 
 * Make Sure you have added any tests necessary to test your code and run **all** the tests. Don't rely on the existing tests to see if you've broken code elsewhere; test the changes you made too!
 * Update the Documentation to go along with any changes in functionality / improvements in a separate pull request against the gh-pages branch.
