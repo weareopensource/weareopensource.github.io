@@ -1,8 +1,8 @@
 Welcome to the We Are Open Source wiki! Here you will find various information about this community. 
 
-## FullStacks
+## Help for you project
 
-* [how to create a fullstack with another of our repos]() - WIP
+* [how to start a project with our stacks and maintain updates](/weareopensource/weareopensource.github.io/wiki/Start-a-project-and-maintain-updates)
 
 ## Stacks
 
