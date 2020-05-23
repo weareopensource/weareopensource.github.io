@@ -1,6 +1,6 @@
 ## :book: [Presentation](https://weareopensource.me/introduction/)
 
-Just a quick redirection to **[WeAreOpenSource official blog](https://weareopensource.me/introduction/)** . 
+Just a quick redirection to **[WeAreOpenSource official site](https://weareopensource.me/introduction/)** . 
 
 For information this reposiroty help us to manage our organization by:
 
