@@ -6,10 +6,6 @@ For information this reposiroty help us to manage our organization by:
 
 - hosting a **[board](https://github.com/weareopensource/weareopensource.github.io/projects/1)** and **[issues](https://github.com/weareopensource/weareopensource.github.io/issues)** to define our **gloabl roadmap**
 
-- Hosting the **[wiki](https://github.com/weareopensource/weareopensource.github.io/wiki)** explaining how to easily use all of our stacks to form a Starter **Pack / Boilerplate** !
-
-- Hosting the **[contribue.md](https://github.com/weareopensource/weareopensource.github.io/blob/master/CONTRIBUTE.md)** explaining how to help us !
-
 *Sharing of knowledge - #LetsGetTogether*
 
 ## :pencil2: [Contribute](https://github.com/weareopensource/weareopensource.github.io/blob/master/CONTRIBUTE.md)
