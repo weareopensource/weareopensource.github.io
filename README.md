@@ -4,7 +4,7 @@ Just a quick redirection to **[WeAreOpenSource official site](https://weareopens
 
 For information this reposiroty help us to manage our organization by:
 
-- hosting a **[board](https://github.com/weareopensource/weareopensource.github.io/projects/1)** and **[issues](https://github.com/weareopensource/weareopensource.github.io/issues)** to define our **gloabl roadmap**
+- hosting **[issues](https://github.com/weareopensource/weareopensource.github.io/issues)** to define our **gloabl roadmap**
 
 *Sharing of knowledge - #LetsGetTogether*
 
